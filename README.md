@@ -1,10 +1,15 @@
 Using this to save my solutions to the Harvard CS50 homework problems and track my progress.
 
 Week 1 started: June 7th, 2026
+
 Week 1 finished: June 7th, 2026
+
     hello 1: like 30 seconds
+    
     hello 2: 5 minutes
+    
     mario (hard): 1 hour
+    
     credit (hard): 3.5 hours
 Notes: Feels good to actually jump in and start learning to program from the basics instead of putting it off or 
         getting overwhelmed trying to learn advanced things about making applications/ rendering graphics when I 
